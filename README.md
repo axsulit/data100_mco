@@ -23,4 +23,4 @@ cd data100_mco
 ```
 
 ### 3. Run the Program
-Now you can run the `main.ipynb` notebook using by clicking <b>Run All</b>.
+Now you can run the `main.ipynb` notebook using by clicking <b>Run All</b> and by selecting the installed python environment <b> .venv (Python 3.9.6) </b>.
