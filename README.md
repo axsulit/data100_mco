@@ -4,7 +4,7 @@ The House Prices dataset contains house sale prices for King County, including S
 ## DATA100 S17 Group 10
 By:
 - <b>CORNELIO</b>, Job - 3rd Year, COS<br>
-- <b>AMOS</b>, Cy Adrienne C. - nth Year, College<br>
+- <b>RAMOS</b>, Cy Adrienne C. - 3rd Year, COS<br>
 - <b>SIOCO</b>, Megan Rylene A. - 3rd Year, CCS<br> 
 - <b>SULIT</b>, Anne Gabrielle M. - 4th Year, CCS
 
