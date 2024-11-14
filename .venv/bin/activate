@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/annesulit/Documents/data100/data100_mco/.venv"
+VIRTUAL_ENV="/Users/annesulit/Documents/data100_mco/.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

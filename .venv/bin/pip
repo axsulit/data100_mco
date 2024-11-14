@@ -1,4 +1,4 @@
-#!/Users/annesulit/Documents/data100/data100_mco/.venv/bin/python3
+#!/Users/annesulit/Documents/data100_mco/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
