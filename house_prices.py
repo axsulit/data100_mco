@@ -194,14 +194,12 @@ class HousePrices:
         print("\n=== Date Analysis ===")
         df['date_temp'] = pd.to_datetime(df['date'])
         print(f"Date range: {df['date_temp'].min()} - {df['date_temp'].max()}")
-        print(f"Invalid dates (future): {
-            df[df['date_temp'] > datetime.datetime.now()].shape[0]}")
+        print(f"Invalid dates (future): {df[df['date_temp'] > datetime.datetime.now()].shape[0]}")
         df.drop('date_temp', axis=1, inplace=True)
         
         # Additional logical checks
         print("\n=== Logical Checks ===")
-        print(f"Renovation year before build year (excluding non-renovated): {
-            df[(df['yr_renovated'] != 0) & (df['yr_renovated'] < df['yr_built'])].shape[0]}")
+        print(f"Renovation year before build year (excluding non-renovated): {df[(df['yr_renovated'] != 0) & (df['yr_renovated'] < df['yr_built'])].shape[0]}")
 
 
 
