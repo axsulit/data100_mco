@@ -7,7 +7,7 @@ By:
 - <b>RAMOS</b>, Cy Adrienne C. - 3rd Year, COS<br>
 - <b>SIOCO</b>, Megan Rylene A. - 3rd Year, CCS<br> 
 - <b>SULIT</b>, Anne Gabrielle M. - 4th Year, CCS
-- 
+  
 ## Goals of the Analysis  
 The primary goals of this analysis are:  
 1. **Variable Relationships**: Explore how different factors such as size, location, amenities, and renovation history correlate with housing prices.  
