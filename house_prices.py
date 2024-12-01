@@ -236,6 +236,3 @@ class HousePrices:
             print(f"Error saving DataFrame: {str(e)}")
             return False
 
-
-
-
